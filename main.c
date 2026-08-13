@@ -4,8 +4,11 @@
 
 #include <stdio.h>
 
+/**
+ *  @brief 主函数
+ */
 int main() {
     printf("Hello, World!\n");
-    printf("main test")
+    printf("main test");
     return 0;
 }
