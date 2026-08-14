@@ -10,9 +10,7 @@
  */
 void test_1(const int a, const int b) {
     printf("test-a->%d, test-b->%d", a+1, b+1);
-    // 这是一个测试
 }
-
 
 /**
  * @brief 测试函数
@@ -22,5 +20,4 @@ void test_1(const int a, const int b) {
  */
 void test_2(const int a, const int b) {
     printf("test-a->%d, test-b->%d", a+2, b+2);
-
 }
