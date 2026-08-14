@@ -21,4 +21,5 @@ void test_1(const int a, const int b) {
  */
 void test_2(const int a, const int b) {
     printf("test-a->%d, test-b->%d", a+2, b+2);
+
 }
